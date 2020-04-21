@@ -1,6 +1,6 @@
-# 👷 `worker-template` Hello World
+# 👷 `worker-template` Submission for Cloudflare Internship
 
-A template for kick starting a Cloudflare worker project.
+Darong's copy of the Cloudflare internship engineering challenge
 
 [`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
 
